@@ -1,0 +1,12 @@
+#local .terraform directory
+.terraform/*
+
+#tf state files
+*.tfstate
+*.tfstate.*
+
+#DS_Store
+.DS_Store
+
+#groovy lint file
+.groovylintrc.json
